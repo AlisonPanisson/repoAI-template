@@ -52,4 +52,4 @@ Windows:
 
 ## 📝 Licença
 Ao final adicione uma breve descrição de que seu projeto está sobre a licença MIT + CC-BY, por exemplo:
-Esse projeto está sob licença MIT + CC-BY. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+Esse projeto está sob licença MIT + CC-BY. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
