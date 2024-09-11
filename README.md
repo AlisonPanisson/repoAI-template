@@ -22,3 +22,29 @@ Se você está desenvolvendo o repositório em grupos, ou mesmo está aberto a c
 - [x] Tarefa 3
 - [ ] Tarefa 4
 - [ ] Tarefa 5
+
+## Seção de Pré-Requisitos e Instalações Necessárias
+
+Faça uma seção de pré-requisitos e instalações necessárias para a execução do tutorial apresentado junto ao repositório. Por exemplo:
+
+### 💻 Pré-requisitos
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
+- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
+- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+
+### 🚀 Instalação
+
+Para instalar o <requisito>, siga estas etapas:
+
+Linux e macOS:
+
+```
+<comando_de_instalação>
+```
+
+Windows:
+
+```
+<comando_de_instalação>
+```
