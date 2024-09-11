@@ -1,4 +1,4 @@
-![banner-inicial]([url-to-image](https://github.com/AlisonPanisson/repoAI-template/blob/main/content/RepoAI.png))
+![banner-inicial](content/RepoAI.png)
 
 # Template de Repositórios - RepoAI (Repositório de Conhecimento em IA)
 
