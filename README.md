@@ -57,6 +57,25 @@ Windows:
 <comando_de_instalação>
 ```
 
+## Alertas
+
+Você pode usar alertas para enfatizar algum aspecto em seu tutorial: 
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
 ## Licença 📝
 Ao final adicione uma breve descrição de que seu projeto está sobre a licença MIT + CC-BY, por exemplo:
 Esse projeto está sob licença MIT + CC-BY. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
