@@ -88,12 +88,7 @@ graph TD;
 ```
 
 ## Contribuidores:
-
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
-</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ Você pode listar todos os contribuidores do seu projeto. Adicione a si mesmo. 
 
 ## Licença 📝
 Ao final adicione uma breve descrição de que seu projeto está sobre a licença MIT + CC-BY, por exemplo:
