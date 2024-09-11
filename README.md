@@ -5,6 +5,13 @@
 Esse repositório é um modelo (template) para a criação de repositórios do projeto RepoAI. 
 Ao mesmo tempo, ele também é um repositório que ensina como participar do projeto e produzir outros repositórios :D
 
+## Conteúdo
+- [Estilo Visual do Repositório](#estilo)
+- [Repositório em Construção](#construcao)
+- [Seção de Pré-Requisitos e Instalações Necessárias](#necessarios)
+- [Licença](#licenca)
+
+
 ## Estilo Visual do Repositório 
 Queremos que todos os repositórios publicados sigam o mesmo estilo visual, proporcionando assim uma experiência de sinergia aos visitantes. 
 Para isso recomendamos os seguintes elementos visuais: 
@@ -27,13 +34,13 @@ Se você está desenvolvendo o repositório em grupos, ou mesmo está aberto a c
 
 Faça uma seção de pré-requisitos e instalações necessárias para a execução do tutorial apresentado junto ao repositório. Por exemplo:
 
-### 💻 Pré-requisitos
+### Pré-requisitos 💻 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
 - Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
 - Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
-### 🚀 Instalação
+### Instalação 🚀 
 
 Para instalar o <requisito>, siga estas etapas:
 
@@ -50,6 +57,6 @@ Windows:
 ```
 
 
-## 📝 Licença
+## Licença 📝
 Ao final adicione uma breve descrição de que seu projeto está sobre a licença MIT + CC-BY, por exemplo:
 Esse projeto está sob licença MIT + CC-BY. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
