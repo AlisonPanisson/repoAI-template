@@ -87,6 +87,14 @@ graph TD;
     C-->D;
 ```
 
+## Contribuidores:
+
+<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Licença 📝
 Ao final adicione uma breve descrição de que seu projeto está sobre a licença MIT + CC-BY, por exemplo:
 Esse projeto está sob licença MIT + CC-BY. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
