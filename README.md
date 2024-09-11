@@ -6,10 +6,10 @@ Esse repositório é um modelo (template) para a criação de repositórios do p
 Ao mesmo tempo, ele também é um repositório que ensina como participar do projeto e produzir outros repositórios :D
 
 ## Conteúdo
-  - [Estilo Visual do Repositório](#estilo-visual-do-reposit-rio)
+  - [Estilo Visual do Repositório](#estilo-visual-do-reposit%C3%B3rio)
   - [Repositório em Construção](#reposit%C3%B3rio-em-constru%C3%A7%C3%A3o)
-  - [Pré-Requisitos e Instalações Necessárias](#se--o-de-pr--requisitos-e-instala--es-necess-rias)
-  - [Licença 📝](#licen-a---)
+  - [Pré-Requisitos e Instalações Necessárias](#se%C3%A7%C3%A3o-de-pr%C3%A9-requisitos-e-instala%C3%A7%C3%B5es-necess%C3%A1rias)
+  - [Licença 📝](#licen%C3%A7a-)
 
 ## Estrutura do Repositório
 
