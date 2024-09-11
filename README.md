@@ -62,19 +62,19 @@ Windows:
 Você pode usar alertas para enfatizar algum aspecto em seu tutorial: 
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Instruções importantes que os usuários devem conhecer, mesmo ao ler rapidamente o conteúdo.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Dicas úteis para fazer as coisas de forma melhor ou mais fácil.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Informações essenciais que os usuários precisam saber para alcançar seu objetivo.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Informações urgentes que exigem a atenção imediata dos usuários para evitar problemas.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Alertas sobre os riscos ou possíveis consequências negativas de certas ações.
 
 ## Licença 📝
 Ao final adicione uma breve descrição de que seu projeto está sobre a licença MIT + CC-BY, por exemplo:
