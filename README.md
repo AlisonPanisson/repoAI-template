@@ -1,5 +1,7 @@
 ![banner-inicial](content/RepoAI.png)
 
-# Template de Repositórios - RepoAI (Repositório de Conhecimento em IA)
+# Template - RepoAI (Repositório de Conhecimento em IA)
 
-Template de Repositório - Projeto Repositório de Conhecimento 
+Esse repositório é um modelo (template) para a criação de repositórios do projeto RepoAI. 
+Ao mesmo tempo, ele também é um repositório que ensina como participar do projeto e produzir outros repositórios :D
+
