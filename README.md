@@ -6,14 +6,10 @@ Esse repositório é um modelo (template) para a criação de repositórios do p
 Ao mesmo tempo, ele também é um repositório que ensina como participar do projeto e produzir outros repositórios :D
 
 ## Conteúdo
-- [Template - RepoAI (Repositório de Conhecimento em IA)](#template---repoai--reposit-rio-de-conhecimento-em-ia-)
-  * [Conteúdo](#conte-do)
-  * [Estilo Visual do Repositório](#estilo-visual-do-reposit-rio)
-  * [Repositório em Construção](#reposit-rio-em-constru--o)
-  * [Seção de Pré-Requisitos e Instalações Necessárias](#se--o-de-pr--requisitos-e-instala--es-necess-rias)
-    + [Pré-requisitos 💻](#pr--requisitos---)
-    + [Instalação 🚀](#instala--o---)
-  * [Licença 📝](#licen-a---)
+  - [Estilo Visual do Repositório](#estilo-visual-do-reposit-rio)
+  - [Repositório em Construção](#reposit-rio-em-constru--o)
+  - [Pré-Requisitos e Instalações Necessárias](#se--o-de-pr--requisitos-e-instala--es-necess-rias)
+  - [Licença 📝](#licen-a---)
 
 
 ## Estilo Visual do Repositório
