@@ -11,6 +11,20 @@ Ao mesmo tempo, ele também é um repositório que ensina como participar do pro
   - [Pré-Requisitos e Instalações Necessárias](#se--o-de-pr--requisitos-e-instala--es-necess-rias)
   - [Licença 📝](#licen-a---)
 
+## Estrutura do Repositório
+
+Aqui você deve descrever brevemente a estrutura do repositório
+
+```text
+folder1/
+└── folder2/
+    ├── folder3/
+    │   ├── file1
+    │   └── file2
+    └── folder4/
+        ├── file3
+        └── file4
+```
 
 ## Estilo Visual do Repositório
 Queremos que todos os repositórios publicados sigam o mesmo estilo visual, proporcionando assim uma experiência de sinergia aos visitantes. 
