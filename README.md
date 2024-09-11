@@ -11,8 +11,8 @@ Ao mesmo tempo, ele também é um repositório que ensina como participar do pro
 - [Seção de Pré-Requisitos e Instalações Necessárias](#necessarios)
 - [Licença](#licenca)
 
+<kbd>[## Estilo Visual do Repositório ](#estilo)</kbd>
 
-## Estilo Visual do Repositório 
 Queremos que todos os repositórios publicados sigam o mesmo estilo visual, proporcionando assim uma experiência de sinergia aos visitantes. 
 Para isso recomendamos os seguintes elementos visuais: 
 
