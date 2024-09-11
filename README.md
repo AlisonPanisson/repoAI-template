@@ -7,7 +7,7 @@ Ao mesmo tempo, ele também é um repositório que ensina como participar do pro
 
 ## Conteúdo
   - [Estilo Visual do Repositório](#estilo-visual-do-reposit-rio)
-  - [Repositório em Construção](#reposit-rio-em-constru--o)
+  - [Repositório em Construção](#reposit%C3%B3rio-em-constru%C3%A7%C3%A3o)
   - [Pré-Requisitos e Instalações Necessárias](#se--o-de-pr--requisitos-e-instala--es-necess-rias)
   - [Licença 📝](#licen-a---)
 
