@@ -11,8 +11,8 @@ Ao mesmo tempo, ele também é um repositório que ensina como participar do pro
 - [Seção de Pré-Requisitos e Instalações Necessárias](#necessarios)
 - [Licença](#licenca)
 
-
-## Estilo Visual do Repositório (#estilo)
+<a name="estilo"/>
+## Estilo Visual do Repositório
 Queremos que todos os repositórios publicados sigam o mesmo estilo visual, proporcionando assim uma experiência de sinergia aos visitantes. 
 Para isso recomendamos os seguintes elementos visuais: 
 
@@ -20,6 +20,7 @@ Para isso recomendamos os seguintes elementos visuais:
 - Utilize seções e subseções de acordo com esse template, respeitando o formato de fontes e tamanhos.
 - Logo ao inicio desse arquivo, adicione índices dos conteúdos, e a estrutura de pastas do repositório.
 
+<a name="construcao"/>
 ## Repositório em Construção
 
 Se você está desenvolvendo o repositório em grupos, ou mesmo está aberto a contribuições, você pode abrir uma lista simples de tarefas nas seções iniciais, para organizar as tarefas:
@@ -30,6 +31,7 @@ Se você está desenvolvendo o repositório em grupos, ou mesmo está aberto a c
 - [ ] Tarefa 4
 - [ ] Tarefa 5
 
+<a name="necessarios"/>
 ## Seção de Pré-Requisitos e Instalações Necessárias
 
 Faça uma seção de pré-requisitos e instalações necessárias para a execução do tutorial apresentado junto ao repositório. Por exemplo:
@@ -56,7 +58,7 @@ Windows:
 <comando_de_instalação>
 ```
 
-
+<a name="licenca"/>
 ## Licença 📝
 Ao final adicione uma breve descrição de que seu projeto está sobre a licença MIT + CC-BY, por exemplo:
 Esse projeto está sob licença MIT + CC-BY. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
