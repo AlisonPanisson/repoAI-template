@@ -12,7 +12,7 @@ Ao mesmo tempo, ele também é um repositório que ensina como participar do pro
 - [Licença](#licenca)
 
 
-#estilo ## Estilo Visual do Repositório
+## Estilo Visual do Repositório (#estilo)
 Queremos que todos os repositórios publicados sigam o mesmo estilo visual, proporcionando assim uma experiência de sinergia aos visitantes. 
 Para isso recomendamos os seguintes elementos visuais: 
 
