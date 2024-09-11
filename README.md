@@ -9,4 +9,4 @@ Ao mesmo tempo, ele também é um repositório que ensina como participar do pro
 Queremos que todos os repositórios publicados sigam o mesmo estilo visual, proporcionando assim uma experiência de sinergia aos visitantes. 
 Para isso recomendamos os seguintes elementos visuais: 
 
-- Um banner inicial temático ao projeto. Use o formato de capa para redes sociais. Recomendamos utilziar os templates disponíveis no Canva[https://www.canva.com/]. Seja criativo!
+- Um banner inicial temático ao projeto. Use o formato de capa para redes sociais. Por exemplo, recomendamos utilizar os templates disponíveis no [Canva](https://www.canva.com/). Seja criativo!
