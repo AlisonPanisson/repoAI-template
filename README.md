@@ -71,7 +71,26 @@ Windows:
 <comando_de_instalação>
 ```
 
-## Alertas
+## Outras Seções 
+
+### Seções Escondidas
+Você pode fazer uso de seções escondidas, por exemplo, para exibir trechos de código básico que você acredita que nem todos os leitores terão a necessidade de ver. 
+São elementos perfeitos para esse tipo de conteúdo, ou seja, que é opcional para leitores que já possuem algum background sobre o assunto do repositório. Exemplo:
+
+<details>
+
+<summary>Exemplo de Seção Escondida</summary>
+
+### Ela pode conter títulos
+
+Pode conter texto, imagens, blocos, código (essensialmente qualquer coisa)
+
+```python
+   print("Hello World").
+```
+</details>
+
+### Alertas
 
 Você pode usar alertas para enfatizar algum aspecto em seu tutorial: 
 
@@ -90,7 +109,7 @@ Você pode usar alertas para enfatizar algum aspecto em seu tutorial:
 > [!CAUTION]
 > Alertas sobre os riscos ou possíveis consequências negativas de certas ações.
 
-## Diagramas
+### Diagramas
 Você pode criar diagramas sem a necessidade de ferramentas externas, por exemplo:
 
 ```mermaid
