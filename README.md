@@ -81,10 +81,10 @@ Você pode criar diagramas sem a necessidade de ferramentas externas, por exempl
 
 ```mermaid
 graph TD;
-    "Aspecto A"-->"Aspecto B";
-    "Aspecto A"-->"Aspecto C";
-    "Aspecto B"-->"Aspecto D";
-    "Aspecto C"-->"Aspecto D";
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
 
 ## Licença 📝
