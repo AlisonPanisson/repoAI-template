@@ -87,7 +87,7 @@ graph TD;
     C-->D;
 ```
 
-## Contribuidores:
+## Contribuidores
  Você pode listar todos os contribuidores do seu projeto. Adicione a si mesmo. 
 
 ## Licença 📝
