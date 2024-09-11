@@ -76,6 +76,17 @@ Você pode usar alertas para enfatizar algum aspecto em seu tutorial:
 > [!CAUTION]
 > Alertas sobre os riscos ou possíveis consequências negativas de certas ações.
 
+## Diagramas
+Você pode criar diagramas sem a necessidade de ferramentas externas, por exemplo:
+
+```mermaid
+graph TD;
+    Aspecto A-->Aspecto B;
+    Aspecto A-->Aspecto C;
+    Aspecto B-->Aspecto D;
+    Aspecto C-->Aspecto D;
+```
+
 ## Licença 📝
 Ao final adicione uma breve descrição de que seu projeto está sobre a licença MIT + CC-BY, por exemplo:
 Esse projeto está sob licença MIT + CC-BY. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
