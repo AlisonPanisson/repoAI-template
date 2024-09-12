@@ -22,8 +22,11 @@ RepoAI/
     │   ├── imagens
     │   └── outros
     └── code/
-        ├── dados
-        └── implementação
+    |   ├── dados
+    |   └── implementação
+    ├── README.md
+    └── license
+    
 ```
 
 ## Estilo Visual e Estrutura do Repositório
