@@ -21,7 +21,7 @@ RepoAI/
     ├── content/
     │   ├── imagens
     │   └── outros
-    └── code/
+    ├── code/
     |   ├── dados
     |   └── implementação
     ├── README.md
