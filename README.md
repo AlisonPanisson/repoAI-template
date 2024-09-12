@@ -16,14 +16,14 @@ Ao mesmo tempo, ele também é um repositório que ensina como participar do pro
 Aqui você deve descrever brevemente a estrutura do repositório
 
 ```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
+RepoAI/
+└── seu_repositorio/
+    ├── content/
+    │   ├── imagens
+    │   └── outros
+    └── code/
+        ├── data
+        └── implementation
 ```
 
 ## Estilo Visual e Estrutura do Repositório
