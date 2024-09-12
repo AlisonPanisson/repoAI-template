@@ -26,8 +26,8 @@ folder1/
         └── file4
 ```
 
-## Estilo Visual do Repositório
-Queremos que todos os repositórios publicados sigam o mesmo estilo visual, proporcionando assim uma experiência de sinergia aos visitantes. 
+## Estilo Visual e Estrutura do Repositório
+Queremos que todos os repositórios publicados sigam o mesmo estilo visual e estrutura, proporcionando assim uma experiência de sinergia aos visitantes. 
 Para isso recomendamos os seguintes elementos visuais: 
 
 - Adicione um banner temático no seu repositório. Use o formato de capa para redes sociais. Por exemplo, recomendamos utilizar os templates disponíveis no [Canva](https://www.canva.com/). Seja criativo!
@@ -37,6 +37,7 @@ Para isso recomendamos os seguintes elementos visuais:
   Depois, adicione uma seção para apresentar a implementação realizada (use quantas subseções desejar), abordando de forma didática o código e dominio de aplicação. 
   Adicione trechos de código, videos curtos, imagens e explicações pontuais na construção do documento.
   Por último, mantenha uma seção sobre vocês, e, muito importante, a licença indicada.
+- Siga a estrutura de pastas indicadas nesse template.
 
 
 ## Repositório em Construção
