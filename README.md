@@ -31,8 +31,12 @@ Queremos que todos os repositórios publicados sigam o mesmo estilo visual, prop
 Para isso recomendamos os seguintes elementos visuais: 
 
 - Adicione um banner temático no seu repositório. Use o formato de capa para redes sociais. Por exemplo, recomendamos utilizar os templates disponíveis no [Canva](https://www.canva.com/). Seja criativo!
-- Utilize seções e subseções de acordo com esse template, respeitando o formato de fontes e tamanhos.
-- Logo ao inicio desse arquivo, adicione índices dos conteúdos, e a estrutura de pastas do repositório.
+- Utilize seções e subseções seguindo o mesmo estilo desse template, respeitando fontes e tamanhos.
+- Logo ao inicio do arquivo, adicione índices dos conteúdos, e a estrutura de pastas do repositório. 
+  Após, apresente uma seção de introdução conceitual sobre a técnica escolhida (use quantas subseções desejar), seja didático usando imagens e diagramas.
+  Depois, adicione uma seção para apresentar a implementação realizada (use quantas subseções desejar), abordando de forma didática o código e dominio de aplicação. 
+  Adicione trechos de código, videos curtos, imagens e explicações pontuais na construção do documento.
+  Por último, mantenha uma seção sobre vocês, e, muito importante, a licença indicada.
 
 
 ## Repositório em Construção
