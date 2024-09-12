@@ -135,7 +135,7 @@ flowchart TB
     a2-->|indica|b3(Pastas)
     a4-->|solicita correções|b4
 ```
-[Nesse link] você encontra a documentação para criação de digramas.
+[Nesse link](https://mermaid.js.org/intro/) você encontra a documentação para criação de digramas.
 
 ## Contribuidores
  Você pode listar todos os contribuidores do seu projeto. Adicione a si mesmo. 
