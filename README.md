@@ -22,8 +22,8 @@ RepoAI/
     │   ├── imagens
     │   └── outros
     └── code/
-        ├── data
-        └── implementation
+        ├── dados
+        └── implementação
 ```
 
 ## Estilo Visual e Estrutura do Repositório
