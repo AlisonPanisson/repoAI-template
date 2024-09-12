@@ -129,7 +129,7 @@ flowchart TB
     a4-->|aceita|a5[Publicado!]
     end
     subgraph Você
-    b1(Interece)-->|define|b2(Tema)
+    b1(Interesse)-->|define|b2(Tema)
     b3-->|fork|b4(Repositório)
     b4-->|cria|b5(Conteúdo)
     b5-->|solicita|a3[Merge]
