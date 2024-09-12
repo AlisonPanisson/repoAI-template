@@ -110,31 +110,25 @@ Você pode usar alertas para enfatizar algum aspecto em seu tutorial:
 > Alertas sobre os riscos ou possíveis consequências negativas de certas ações.
 
 ### Diagramas
-Você pode criar diagramas sem a necessidade de ferramentas externas, por exemplo:
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+Você pode criar diagramas sem a necessidade de ferramentas externas. 
+Por exemplo, abaixo é apresentado o diagrama de fluxo de submissão de projetos do repositório:
 
 ```mermaid
 flowchart TB
-    c1-->a2
-    subgraph one
-    a1-->a2
+    subgraph Equipe
+    a1-->|Aprova e Cria|a2[Sub Repositório]
+    a3-->|avalia|a4[Avaliação]
+    a4-->|aceita|a5[Publicado!]
     end
-    subgraph two
-    b1-->b2
+    subgraph Você
+    b1(Interece)-->|define|b2(Tema)
+    b3-->|fork|b4(Repositório)
+    b4-->|cria|b5(Conteúdo)
+    b5-->|solicita|a3[Merge]
     end
-    subgraph three
-    c1-->c2
-    end
-    one --> two
-    three --> two
-    two --> c2
+    b2-->|submete|a1[Proposta]
+    a2-->|indica|b3(Pastas)
+    a4-->|solicita correções|b4
 ```
 
 ## Contribuidores
