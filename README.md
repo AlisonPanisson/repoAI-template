@@ -194,7 +194,7 @@ Link para vídeo online:
 ## Contribuidores
  Você pode listar todos os contribuidores do seu projeto. Adicione a si mesmo. 
 
- | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/49369639?v=4" width=115><br><sub>Matheus Lima</sub>](https://github.com/matheus1103) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/11313404?v=4" width=115><br><sub>Alison R. Panisson</sub>](https://github.com/guilhermeonrails) |
+ | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/49369639?v=4" width=115><br><sub>Matheus Lima</sub>](https://github.com/matheus1103) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/11313404?v=4" width=115><br><sub>Alison R. Panisson</sub>](https://github.com/AlisonPanisson) |
 | :---: | :---: |
 
 ## Licença 📝
