@@ -195,5 +195,8 @@ Link para vídeo online:
  Você pode listar todos os contribuidores do seu projeto. Adicione a si mesmo. 
 
 ## Licença 📝
-Ao final adicione uma breve descrição de que seu projeto está sobre a licença MIT + CC-BY, por exemplo:
-Esse projeto está sob licença MIT + CC-BY. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
+Ao final edite o arquivo de licença, atualizando o ano e seu nome, depois adicione uma breve descrição de que seu projeto está sobre a licença CC-BY, por exemplo:
+
+"Esse projeto está sob licença CC-BY 4.0." 
+
+Veja o arquivo [Licença](LICENSE) para mais detalhes.
