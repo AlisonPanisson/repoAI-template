@@ -186,9 +186,9 @@ Link para vídeo online:
 [nome-youtube](https://www.youtube.com/video)
 ```
 #### Link Por imagem
-[![Assista ao vídeo](content/images.jpeg)](https://www.youtube.com/watch?v=tO01J-M3g0U)
+[![Assista ao vídeo](content\image.png)](https://www.youtube.com/watch?v=tO01J-M3g0U)
 ```markdown
-[![Assista ao vídeo](images.jpeg)](https://www.youtube.com/video)
+[![Assista ao vídeo](image.png)](https://www.youtube.com/video)
 ```
 
 ## Contribuidores
