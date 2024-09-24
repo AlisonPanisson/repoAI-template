@@ -181,12 +181,12 @@ link para video local:
 
 #### Vídeo online
 Link para vídeo online:
-[Youtube](https://www.youtube.com/watch?v=tO01J-M3g0U)
+[Youtube](https://youtu.be/Lc-FuPJavDk?si=JY3LC6LifQtxZkI3)
 ```markdown
 [nome-youtube](https://www.youtube.com/video)
 ```
 #### Link Por imagem
-[![Assista ao vídeo](content\image.png)](https://www.youtube.com/watch?v=tO01J-M3g0U)
+[![Assista ao vídeo](content/image.png)](https://youtu.be/Lc-FuPJavDk?si=JY3LC6LifQtxZkI3)
 ```markdown
 [![Assista ao vídeo](image.png)](https://www.youtube.com/video)
 ```
