@@ -194,6 +194,12 @@ Link para vídeo online:
 ## Contribuidores
  Você pode listar todos os contribuidores do seu projeto. Adicione a si mesmo. 
 
+ | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/49369639?v=4" width=115><br><sub>Matheus Lima</sub>](https://github.com/matheus1103) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/11313404?v=4" width=115><br><sub>Alison R. Panisson</sub>](https://github.com/AlisonPanisson) |
+| :---: | :---: |
+
 ## Licença 📝
-Ao final adicione uma breve descrição de que seu projeto está sobre a licença MIT + CC-BY, por exemplo:
-Esse projeto está sob licença MIT + CC-BY. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
+Ao final edite o arquivo de licença, atualizando o ano e seu nome, depois adicione uma breve descrição de que seu projeto está sobre a licença CC-BY, por exemplo:
+
+"Esse projeto está sob licença CC-BY 4.0." 
+
+Veja o arquivo [Licença](LICENSE) para mais detalhes.
